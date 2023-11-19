@@ -1,4 +1,4 @@
-![Override's github stats](https://github-readme-stats.vercel.app/api?username=0V3RR1DE0&count_private=true&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+![Override's github stats](https://github-readme-stats.vercel.app/api?username=0V3RR1DE0&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0V3RR1DE0&layout=compact)
 
